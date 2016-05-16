@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+Hi All,
+
+This is our new KT secession for today.
+It will start for today onwards.
